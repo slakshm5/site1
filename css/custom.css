@@ -2,4 +2,45 @@
 body {
   padding-top: 50px;
   padding-bottom: 20px;
+  
+}
+.jumbotron h1{
+	font-family: 'Arvo', courier, serif;	
+	margin-top: 2px;
+	margin-bottom: 50px;
+}
+.jumbotron p{
+	margin-bottom: 30px;
+	background-image: url('../images/heroimage.jpg');
+}
+ul.nav{
+	font-size: 13px;
+	font-family: 'Arvo', courier, serif;	
+}
+.jumbotron {
+	text-align: center;	
+	color: white;
+	font-weight: 100;
+	padding: 0 50px;
+}
+.homepage {
+	font-family: 'Arvo', courier, serif;
+	text-align: center;
+}
+.homepage h2, .homepage h3 {
+	text-transform: uppercase;
+	color: #e74c3c;
+}
+.homepage h2 {
+	font-size: 30px;
+}
+.homepage h3 {
+	font-size: 26px;
+}
+.homepage p {
+	font-size: 18px;
+	font-weight: 300;
+}
+.homepage a {
+	font-color: #e74c3c;
 }
