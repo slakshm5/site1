@@ -44,3 +44,8 @@ ul.nav{
 .homepage a {
 	font-color: #e74c3c;
 }
+.homepage hr {
+	border-top: 1px solid #e74c3c;
+	width: 16px;
+	margin-top: 15px;
+}
